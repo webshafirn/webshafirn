@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGu_RvLICc/-mR7QI3_N1gEmvbKOw2hbQ/view?utm_content=DAGu_RvLICc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h80f3914eec">
+<img src="https://i.ibb.co/qFktwdgW/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner-1.png">
 <h1 align="center">Hello 👋, I'm Md Shafiur Rahman</h1>
 <h3 align="center">Professional Web Designer Developer & WordPress Expert Helping Businesses and Creators Build Stunning, Functional Websites Passionate about Turning Ideas into Digital Reality | Training Next-Gen Web Developers.</h3>
 
